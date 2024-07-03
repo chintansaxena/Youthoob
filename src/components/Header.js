@@ -55,8 +55,8 @@ const Header = () => {
   }
 
   return (
-    <div className='grid grid-flow-col p-1 m-2 shadow-lg'>
-      <div className='flex col-span-1'>
+    <div className='grid grid-flow-col p-4 m-2'>
+      <div className='flex'>
         <img
           onClick={() => toggleMenuHandler()}
           className='h-6 cursor-pointer'
