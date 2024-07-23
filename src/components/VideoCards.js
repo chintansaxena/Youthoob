@@ -16,7 +16,7 @@ const VideoCards = ({ matter = {} }) => {
                 />
                 <ul className='flex flex-col '>
                     <li className='font-semibold py-1 font-sans'>{snippet?.title}</li>
-                    <li>{snippet?.channelTitle}</li>
+                    <li className='font-medium'>{snippet?.channelTitle}</li>
                     <li>{statistics?.viewCount} views</li>
                     <li>{snippet?.publishedAt}</li>
                 </ul>
