@@ -1,4 +1,4 @@
-# YouThoobh: A Scalable Video Streaming Platform
+# YouThoob : A Scalable Video Streaming Platform
 
 # Overview -
 
