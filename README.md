@@ -27,3 +27,11 @@ This project is a YouTube-like video streaming platform built with React.js, lev
 •	React Router: A library for routing in React applications.   
 
 Live site hosted here - https://youthoobh.netlify.app/
+
+# Contributing - 
+
+Contributions are welcome! Please feel free to submit pull requests or report issues on the GitHub repository.
+
+# License - 
+
+This project is licensed under the MIT License.   
